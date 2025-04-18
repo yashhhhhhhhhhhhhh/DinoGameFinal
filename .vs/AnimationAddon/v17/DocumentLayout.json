@@ -1,0 +1,135 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\itsme\\OneDrive\\Desktop\\Game Programming\\AnimationAddon\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8F4CAB68-0678-25B4-F759-D712151447B5}|Assembly-CSharp.csproj|C:\\Users\\itsme\\OneDrive\\Desktop\\Game Programming\\AnimationAddon\\assets\\assets\\scripts\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F4CAB68-0678-25B4-F759-D712151447B5}|Assembly-CSharp.csproj|solutionrelative:assets\\assets\\scripts\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F4CAB68-0678-25B4-F759-D712151447B5}|Assembly-CSharp.csproj|C:\\Users\\itsme\\OneDrive\\Desktop\\Game Programming\\AnimationAddon\\assets\\assets\\scripts\\playercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F4CAB68-0678-25B4-F759-D712151447B5}|Assembly-CSharp.csproj|solutionrelative:assets\\assets\\scripts\\playercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F4CAB68-0678-25B4-F759-D712151447B5}|Assembly-CSharp.csproj|c:\\users\\itsme\\onedrive\\desktop\\game programming\\animationaddon\\assets\\assets\\scripts\\quitmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F4CAB68-0678-25B4-F759-D712151447B5}|Assembly-CSharp.csproj|solutionrelative:assets\\assets\\scripts\\quitmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F4CAB68-0678-25B4-F759-D712151447B5}|Assembly-CSharp.csproj|C:\\Users\\itsme\\OneDrive\\Desktop\\Game Programming\\AnimationAddon\\assets\\assets\\scripts\\scorescript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F4CAB68-0678-25B4-F759-D712151447B5}|Assembly-CSharp.csproj|solutionrelative:assets\\assets\\scripts\\scorescript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F4CAB68-0678-25B4-F759-D712151447B5}|Assembly-CSharp.csproj|C:\\Users\\itsme\\OneDrive\\Desktop\\Game Programming\\AnimationAddon\\assets\\assets\\scripts\\gameoverui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F4CAB68-0678-25B4-F759-D712151447B5}|Assembly-CSharp.csproj|solutionrelative:assets\\assets\\scripts\\gameoverui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F4CAB68-0678-25B4-F759-D712151447B5}|Assembly-CSharp.csproj|C:\\Users\\itsme\\OneDrive\\Desktop\\Game Programming\\AnimationAddon\\assets\\assets\\scripts\\obstaclemovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F4CAB68-0678-25B4-F759-D712151447B5}|Assembly-CSharp.csproj|solutionrelative:assets\\assets\\scripts\\obstaclemovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F4CAB68-0678-25B4-F759-D712151447B5}|Assembly-CSharp.csproj|C:\\Users\\itsme\\OneDrive\\Desktop\\Game Programming\\AnimationAddon\\assets\\assets\\scripts\\camerafollow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F4CAB68-0678-25B4-F759-D712151447B5}|Assembly-CSharp.csproj|solutionrelative:assets\\assets\\scripts\\camerafollow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "QuitManager.cs",
+              "DocumentMoniker": "C:\\Users\\itsme\\OneDrive\\Desktop\\Game Programming\\AnimationAddon\\Assets\\Assets\\Scripts\\QuitManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Assets\\Scripts\\QuitManager.cs",
+              "ToolTip": "C:\\Users\\itsme\\OneDrive\\Desktop\\Game Programming\\AnimationAddon\\Assets\\Assets\\Scripts\\QuitManager.cs",
+              "RelativeToolTip": "Assets\\Assets\\Scripts\\QuitManager.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAYwCQAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-18T22:26:20.181Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "scorescript.cs",
+              "DocumentMoniker": "C:\\Users\\itsme\\OneDrive\\Desktop\\Game Programming\\AnimationAddon\\Assets\\Assets\\Scripts\\scorescript.cs",
+              "RelativeDocumentMoniker": "Assets\\Assets\\Scripts\\scorescript.cs",
+              "ToolTip": "C:\\Users\\itsme\\OneDrive\\Desktop\\Game Programming\\AnimationAddon\\Assets\\Assets\\Scripts\\scorescript.cs",
+              "RelativeToolTip": "Assets\\Assets\\Scripts\\scorescript.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAuwB8AAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-16T23:13:08.021Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "GameOverUI.cs",
+              "DocumentMoniker": "C:\\Users\\itsme\\OneDrive\\Desktop\\Game Programming\\AnimationAddon\\Assets\\Assets\\Scripts\\GameOverUI.cs",
+              "RelativeDocumentMoniker": "Assets\\Assets\\Scripts\\GameOverUI.cs",
+              "ToolTip": "C:\\Users\\itsme\\OneDrive\\Desktop\\Game Programming\\AnimationAddon\\Assets\\Assets\\Scripts\\GameOverUI.cs",
+              "RelativeToolTip": "Assets\\Assets\\Scripts\\GameOverUI.cs",
+              "ViewState": "AgIAADwAAAAAAAAAAAAAADwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-16T23:04:27.544Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "GameManager.cs",
+              "DocumentMoniker": "C:\\Users\\itsme\\OneDrive\\Desktop\\Game Programming\\AnimationAddon\\Assets\\Assets\\Scripts\\GameManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Assets\\Scripts\\GameManager.cs",
+              "ToolTip": "C:\\Users\\itsme\\OneDrive\\Desktop\\Game Programming\\AnimationAddon\\Assets\\Assets\\Scripts\\GameManager.cs",
+              "RelativeToolTip": "Assets\\Assets\\Scripts\\GameManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-16T22:51:59.929Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ObstacleMovement.cs",
+              "DocumentMoniker": "C:\\Users\\itsme\\OneDrive\\Desktop\\Game Programming\\AnimationAddon\\Assets\\Assets\\Scripts\\ObstacleMovement.cs",
+              "RelativeDocumentMoniker": "Assets\\Assets\\Scripts\\ObstacleMovement.cs",
+              "ToolTip": "C:\\Users\\itsme\\OneDrive\\Desktop\\Game Programming\\AnimationAddon\\Assets\\Assets\\Scripts\\ObstacleMovement.cs",
+              "RelativeToolTip": "Assets\\Assets\\Scripts\\ObstacleMovement.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-16T22:04:17.169Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CameraFollow.cs",
+              "DocumentMoniker": "C:\\Users\\itsme\\OneDrive\\Desktop\\Game Programming\\AnimationAddon\\Assets\\Assets\\Scripts\\CameraFollow.cs",
+              "RelativeDocumentMoniker": "Assets\\Assets\\Scripts\\CameraFollow.cs",
+              "ToolTip": "C:\\Users\\itsme\\OneDrive\\Desktop\\Game Programming\\AnimationAddon\\Assets\\Assets\\Scripts\\CameraFollow.cs",
+              "RelativeToolTip": "Assets\\Assets\\Scripts\\CameraFollow.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-16T21:57:33.821Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PlayerController.cs",
+              "DocumentMoniker": "C:\\Users\\itsme\\OneDrive\\Desktop\\Game Programming\\AnimationAddon\\Assets\\Assets\\Scripts\\PlayerController.cs",
+              "RelativeDocumentMoniker": "Assets\\Assets\\Scripts\\PlayerController.cs",
+              "ToolTip": "C:\\Users\\itsme\\OneDrive\\Desktop\\Game Programming\\AnimationAddon\\Assets\\Assets\\Scripts\\PlayerController.cs",
+              "RelativeToolTip": "Assets\\Assets\\Scripts\\PlayerController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC4AAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-15T17:20:37.141Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
